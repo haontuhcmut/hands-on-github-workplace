@@ -1,14 +1,19 @@
 ---
-name: Feature request
-about: Suggest a new feature
-title: "[Feature] "
-labels: enhancement
+name: Bug report
+about: Report a bug
+title: "[Bug] "
+labels: bug
 ---
 
-## Description
+## What happened
 
 *
 
-## Why needed
+## Steps to reproduce
+
+1.
+2.
+
+## Expected
 
 *
